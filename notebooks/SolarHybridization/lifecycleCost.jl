@@ -1,4 +1,3 @@
-include("smoothMinMaxAbs.jl")
 function lifecycleCost(Q,xL,xU,xts,xa,m)
     #===========================================================================
     # This subroutine calculates the the total lifecycle savings by implementing

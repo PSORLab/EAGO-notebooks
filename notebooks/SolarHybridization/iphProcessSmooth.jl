@@ -1,4 +1,3 @@
-include("smoothMinMaxAbs.jl")
 function iphProcessSmooth(Q,xts,xa)
     #===========================================================================
     # This subroutine calculates the (smooth) solar fraction as a stand-alone
